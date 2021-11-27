@@ -1,3 +1,10 @@
 {
-  "hello":"yes"
+   "users": [
+       {
+           "username":"login",
+           "password":"password",
+           "email":"email@com.ua",
+           "fav-list": ["271110"]
+       }
+   ] 
 }
